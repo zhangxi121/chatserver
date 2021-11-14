@@ -1,0 +1,11 @@
+# cmake
+build/**
+
+# desc       
+process.txt
+
+# unit_test
+test/mytest_cjson/**
+test/test_helloworld/**
+test/test_servrt/**
+
